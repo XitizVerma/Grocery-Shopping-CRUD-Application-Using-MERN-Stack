@@ -1,2 +1,2 @@
 
-# This is a Movie Review Application created using MERN Stack using MySql as a Database!
+# This is a Movie Review CRUD Application Using React and MySql database!
