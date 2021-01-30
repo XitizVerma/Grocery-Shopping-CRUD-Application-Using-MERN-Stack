@@ -1,2 +1,2 @@
 
-# This is a Movie Review CRUD Application Using React and MySql database!
+# This is a WebSeries Review CRUD Application Using React and MySql database!
